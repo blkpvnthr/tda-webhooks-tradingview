@@ -1,1 +1,2 @@
-pip3 install tda-api
+tda-api
+selenium
